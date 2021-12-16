@@ -7,6 +7,7 @@ Our curricular guidelines are from the 2013 report of the Association for Comput
 ## Organizations publishing:
 
 ### The Association for Computing Machinery
+### The Association for Computing Machinery
 
 The Association for Computing Machinery (ACM) is an international learned society for computing. It was founded in 1947, and is the world's largest scientific and educational computing society. The ACM is a non-profit professional membership group, with more than 100,000 members as of 2011.
 
